@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @therealshahidmanzoor
-- 👀 I’m interested in web and android app development
+- 👀 I’m interested app dev,software dev,game dev,game dev,ethical hacking,database,networking.
 - 🌱 I’m currently learning btech cse
 - 💞️ I’m looking to collaborate on google Infosys and amazon
 - 📫 How to reach me you can text me anytime
