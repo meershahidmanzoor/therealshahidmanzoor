@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @therealshahidmanzoor
+- 👋 Hi, I’m @meershahidmanzoor
 - 👀 I’m interested app dev,software dev,game dev,game dev,ethical hacking,database,networking.
 - 🌱 I’m currently learning btech cse
 - 💞️ I’m looking to collaborate on google Infosys and amazon
